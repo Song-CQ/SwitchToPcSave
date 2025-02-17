@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\UnityPro\\SwitchToPcSave\\SwitchToPcSave\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15DA9409-B66A-4648-928A-EDB96FB99826}|SwitchToPcSave.csproj|g:\\unitypro\\switchtopcsave\\switchtopcsave\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DA9409-B66A-4648-928A-EDB96FB99826}|SwitchToPcSave.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DA9409-B66A-4648-928A-EDB96FB99826}|SwitchToPcSave.csproj|g:\\unitypro\\switchtopcsave\\switchtopcsave\\switchtopcsave.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{15DA9409-B66A-4648-928A-EDB96FB99826}|SwitchToPcSave.csproj|solutionrelative:switchtopcsave.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DA9409-B66A-4648-928A-EDB96FB99826}|SwitchToPcSave.csproj|g:\\unitypro\\switchtopcsave\\switchtopcsave\\switchtopcsave.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{15DA9409-B66A-4648-928A-EDB96FB99826}|SwitchToPcSave.csproj|solutionrelative:switchtopcsave.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SwitchToPcSave",
+              "DocumentMoniker": "G:\\UnityPro\\SwitchToPcSave\\SwitchToPcSave\\SwitchToPcSave.csproj",
+              "RelativeDocumentMoniker": "SwitchToPcSave.csproj",
+              "ToolTip": "G:\\UnityPro\\SwitchToPcSave\\SwitchToPcSave\\SwitchToPcSave.csproj",
+              "RelativeToolTip": "SwitchToPcSave.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-17T16:01:24.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SwitchToPcSave",
+              "DocumentMoniker": "G:\\UnityPro\\SwitchToPcSave\\SwitchToPcSave\\SwitchToPcSave.csproj",
+              "RelativeDocumentMoniker": "SwitchToPcSave.csproj",
+              "ToolTip": "G:\\UnityPro\\SwitchToPcSave\\SwitchToPcSave\\SwitchToPcSave.csproj",
+              "RelativeToolTip": "SwitchToPcSave.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-17T15:50:05.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\UnityPro\\SwitchToPcSave\\SwitchToPcSave\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "G:\\UnityPro\\SwitchToPcSave\\SwitchToPcSave\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T15:45:18.004Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

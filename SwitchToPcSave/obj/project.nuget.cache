@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hiIMx6t6YV0=",
+  "success": true,
+  "projectFilePath": "G:\\UnityPro\\SwitchToPcSave\\SwitchToPcSave\\SwitchToPcSave.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\song\\.nuget\\packages\\mediadevices\\1.10.0\\mediadevices.1.10.0.nupkg.sha512"
+  ],
+  "logs": []
+}
