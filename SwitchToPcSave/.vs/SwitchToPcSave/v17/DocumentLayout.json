@@ -27,15 +27,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "SwitchToPcSave",
+              "Title": "SwitchToPcSave.csproj",
               "DocumentMoniker": "G:\\UnityPro\\SwitchToPcSave\\SwitchToPcSave\\SwitchToPcSave.csproj",
               "RelativeDocumentMoniker": "SwitchToPcSave.csproj",
               "ToolTip": "G:\\UnityPro\\SwitchToPcSave\\SwitchToPcSave\\SwitchToPcSave.csproj",
               "RelativeToolTip": "SwitchToPcSave.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwgAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-17T16:01:24.565Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T16:01:24.565Z"
             },
             {
               "$type": "Document",
@@ -46,8 +45,7 @@
               "ToolTip": "G:\\UnityPro\\SwitchToPcSave\\SwitchToPcSave\\SwitchToPcSave.csproj",
               "RelativeToolTip": "SwitchToPcSave.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-17T15:50:05.936Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T15:50:05.936Z"
             },
             {
               "$type": "Document",
@@ -57,7 +55,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "G:\\UnityPro\\SwitchToPcSave\\SwitchToPcSave\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAAAAwC8AAAAAAAAA",
+              "ViewState": "AQIAADAAAAAAAAAAAAAIwEkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-17T15:45:18.004Z",
               "EditorCaption": ""

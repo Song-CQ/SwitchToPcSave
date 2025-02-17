@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SwitchToPcSave")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b665b7c604d22bc34fa77389468e8ee9649b0828")]
 [assembly: System.Reflection.AssemblyProductAttribute("SwitchToPcSave")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SwitchToPcSave")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

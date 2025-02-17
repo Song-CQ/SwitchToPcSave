@@ -52,10 +52,10 @@ namespace StardewValleySave
         static void Main(string[] args)
         {
 
-            Thread.CurrentThread.Name = "Stardew Valley Save";
+            Thread.CurrentThread.Name = "SwitchToPcSave";
 
             Console.ForegroundColor = ConsoleColor.Green;
-            Console.WriteLine("启动Stardew Valley Save程序!");
+            Console.WriteLine("启动SwitchToPcSave程序!");
             currentDirectory = System.Environment.CurrentDirectory;
             Console.ForegroundColor = ConsoleColor.White;
 

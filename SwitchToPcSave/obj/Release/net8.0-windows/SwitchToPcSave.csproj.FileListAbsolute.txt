@@ -14,3 +14,4 @@ G:\UnityPro\SwitchToPcSave\SwitchToPcSave\obj\Release\net8.0-windows\refint\Swit
 G:\UnityPro\SwitchToPcSave\SwitchToPcSave\obj\Release\net8.0-windows\SwitchToPcSave.pdb
 G:\UnityPro\SwitchToPcSave\SwitchToPcSave\obj\Release\net8.0-windows\SwitchToPcSave.genruntimeconfig.cache
 G:\UnityPro\SwitchToPcSave\SwitchToPcSave\obj\Release\net8.0-windows\ref\SwitchToPcSave.dll
+G:\UnityPro\SwitchToPcSave\SwitchToPcSave\obj\Release\net8.0-windows\SwitchToPcSave.sourcelink.json
